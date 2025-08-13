@@ -2,6 +2,10 @@
 Meus estudos de C++. <br>
 ---
 
-## Exercícios 🐱‍👤
+## Prática em aula
 
 - [Tipos de Dados 1](https://github.com/Giuliamourac/01-TipoDeDados.git)
+
+## Exercícios 🐱‍👤
+
+- [Rolagem de Dados](https://github.com/Giuliamourac/Rolagem-de-Dados.git)
