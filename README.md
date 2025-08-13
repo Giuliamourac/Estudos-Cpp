@@ -9,3 +9,4 @@ Meus estudos de C++. <br>
 ## Exercícios 🐱‍👤
 
 - [Rolagem de Dados](https://github.com/Giuliamourac/Rolagem-de-Dados.git)
+- [Calculo Média](https://github.com/Giuliamourac/CalculoMedia.git)
