@@ -5,7 +5,7 @@ Meus estudos de C++. <br>
 ## Prática em aula
 
 - [Tipos de Dados 1(12/08/2025)](https://github.com/Giuliamourac/01-TipoDeDados.git)
-- [19/08/2025]()
+- [Arrays Lista Linear(19/08/2025)](https://github.com/Giuliamourac/02-ArrayListaLinear.git)
 
 ## Exercícios 🐱‍👤
 
