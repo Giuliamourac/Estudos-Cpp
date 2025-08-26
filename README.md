@@ -12,3 +12,4 @@ Meus estudos de C++. <br>
 
 - [Rolagem de Dados](https://github.com/Giuliamourac/Rolagem-de-Dados.git)
 - [Calculo Média](https://github.com/Giuliamourac/CalculoMedia.git)
+- [Extremos Array](https://github.com/Giuliamourac/extremosArray.git)
