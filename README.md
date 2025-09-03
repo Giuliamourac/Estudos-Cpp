@@ -7,6 +7,7 @@ Meus estudos de C++. <br>
 - [Tipos de Dados 1(12/08/2025)](https://github.com/Giuliamourac/01-TipoDeDados.git)
 - [Arrays Lista Linear(19/08/2025)](https://github.com/Giuliamourac/02-ArrayListaLinear.git)
 - [Lista Linear Complementos(26/08/2025)](https://github.com/Giuliamourac/03-ListaLinearComplementos.git)
+- [Ponteiros(02/09/2025)](https://github.com/Giuliamourac/04-ListaLigada.git)
 
 ## Exercícios 🐱‍👤
 
