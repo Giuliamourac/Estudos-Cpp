@@ -8,6 +8,7 @@ Meus estudos de C++. <br>
 - [Arrays Lista Linear(19/08/2025)](https://github.com/Giuliamourac/02-ArrayListaLinear.git)
 - [Lista Linear Complementos(26/08/2025)](https://github.com/Giuliamourac/03-ListaLinearComplementos.git)
 - [Ponteiros(02/09/2025)](https://github.com/Giuliamourac/04-ListaLigada.git)
+- [Lista Ligada Complementos(09/09/2025)](https://github.com/Giuliamourac/05-ListaLigadaComplementos.git)
 
 ## Exercícios 🐱‍👤
 
