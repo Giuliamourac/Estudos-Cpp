@@ -9,6 +9,7 @@ Meus estudos de C++. <br>
 - [Lista Linear Complementos(26/08/2025)](https://github.com/Giuliamourac/03-ListaLinearComplementos.git)
 - [Ponteiros(02/09/2025)](https://github.com/Giuliamourac/04-ListaLigada.git)
 - [Lista Ligada Complementos(09/09/2025)](https://github.com/Giuliamourac/05-ListaLigadaComplementos.git)
+- [ListaDuplamenteLigada(16/09/2025)](https://github.com/Giuliamourac/06-ListaDuplamenteLigada.git)
 
 ## Exercícios 🐱‍👤
 
