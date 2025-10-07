@@ -11,6 +11,7 @@ Meus estudos de C++. <br>
 - [Lista Ligada Complementos(09/09/2025)](https://github.com/Giuliamourac/05-ListaLigadaComplementos.git)
 - [ListaDuplamenteLigada(16/09/2025)](https://github.com/Giuliamourac/06-ListaDuplamenteLigada.git)
 - [Pilha(07/10/2025)](https://github.com/Giuliamourac/07-Pilha.git)
+- [Fila(07/10/2025)](https://github.com/Giuliamourac/08-Fila.git)
 
 ## Exercícios 🐱‍👤
 
